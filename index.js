@@ -12,7 +12,7 @@ app.get('/', (req, res) =>{
     res.send('Api is ruuning');
 });
 
-app.get('/data', (req, res) =>{
+app.get('/chef', (req, res) =>{
     res.send(allData);
 });
 
