@@ -11,7 +11,7 @@
           "star anise",
           "cinnamon"
         ],
-        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour.............................................................................................................",
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour...............",
         "rating": 4.8
       },
       {
@@ -26,7 +26,7 @@
           "tomato",
           "mozzarella"
         ],
-        "cooking_method": "Baked in a wood-fired oven until the crust is crispy and the cheese is melted and bubbly.............................................................................................................",
+        "cooking_method": "Baked in a wood-fired oven until the crust is crispy and the cheese is melted and bubbly...................",
         "rating": 4.8
       },
       {
@@ -41,7 +41,232 @@
           "Beef Steak",
           "tomato"
         ],
-        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour.............................................................................................................",
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour..............",
+        "rating": 4.8
+      },
+      {
+        "id": 4,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1778&q=80",
+        "chef_id": 2,
+        "ingredients": [
+          "duck breast",
+          "black tea leaves",
+          "brown sugar",
+          "star anise",
+          "cinnamon"
+        ],
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour...............",
+        "rating": 4.8
+      },
+      {
+        "id": 5,
+        "recipe_name": "Pizza",
+        "image_url": "https://plus.unsplash.com/premium_photo-1675103909152-4aa4efcb5598?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_id": 2,
+        "ingredients": [
+          "bread dough ",
+          "olive oil",
+          "oregano",
+          "tomato",
+          "mozzarella"
+        ],
+        "cooking_method": "Baked in a wood-fired oven until the crust is crispy and the cheese is melted and bubbly...................",
+        "rating": 4.8
+      },
+      {
+        "id": 6,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1899&q=80",
+        "chef_id": 2,
+        "ingredients": [
+          "½ tbsp olive oil",
+          "1 onion,",
+          "1 egg,",
+          "Beef Steak",
+          "tomato"
+        ],
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour..............",
+        "rating": 4.8
+      },
+      {
+        "id": 7,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1778&q=80",
+        "chef_id": 3,
+        "ingredients": [
+          "duck breast",
+          "black tea leaves",
+          "brown sugar",
+          "star anise",
+          "cinnamon"
+        ],
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour...............",
+        "rating": 4.8
+      },
+      {
+        "id": 8,
+        "recipe_name": "Pizza",
+        "image_url": "https://plus.unsplash.com/premium_photo-1675103909152-4aa4efcb5598?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_id": 3,
+        "ingredients": [
+          "bread dough ",
+          "olive oil",
+          "oregano",
+          "tomato",
+          "mozzarella"
+        ],
+        "cooking_method": "Baked in a wood-fired oven until the crust is crispy and the cheese is melted and bubbly...................",
+        "rating": 4.8
+      },
+      {
+        "id": 9,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1899&q=80",
+        "chef_id": 3,
+        "ingredients": [
+          "½ tbsp olive oil",
+          "1 onion,",
+          "1 egg,",
+          "Beef Steak",
+          "tomato"
+        ],
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour..............",
+        "rating": 4.8
+      },
+      {
+        "id": 10,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1778&q=80",
+        "chef_id": 4,
+        "ingredients": [
+          "duck breast",
+          "black tea leaves",
+          "brown sugar",
+          "star anise",
+          "cinnamon"
+        ],
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour...............",
+        "rating": 4.8
+      },
+      {
+        "id": 11,
+        "recipe_name": "Pizza",
+        "image_url": "https://plus.unsplash.com/premium_photo-1675103909152-4aa4efcb5598?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_id": 4,
+        "ingredients": [
+          "bread dough ",
+          "olive oil",
+          "oregano",
+          "tomato",
+          "mozzarella"
+        ],
+        "cooking_method": "Baked in a wood-fired oven until the crust is crispy and the cheese is melted and bubbly...................",
+        "rating": 4.8
+      },
+      {
+        "id": 12,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1899&q=80",
+        "chef_id": 4,
+        "ingredients": [
+          "½ tbsp olive oil",
+          "1 onion,",
+          "1 egg,",
+          "Beef Steak",
+          "tomato"
+        ],
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour..............",
+        "rating": 4.8
+      },
+      {
+        "id": 13,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1778&q=80",
+        "chef_id": 5,
+        "ingredients": [
+          "duck breast",
+          "black tea leaves",
+          "brown sugar",
+          "star anise",
+          "cinnamon"
+        ],
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour...............",
+        "rating": 4.8
+      },
+      {
+        "id": 14,
+        "recipe_name": "Pizza",
+        "image_url": "https://plus.unsplash.com/premium_photo-1675103909152-4aa4efcb5598?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_id": 5,
+        "ingredients": [
+          "bread dough ",
+          "olive oil",
+          "oregano",
+          "tomato",
+          "mozzarella"
+        ],
+        "cooking_method": "Baked in a wood-fired oven until the crust is crispy and the cheese is melted and bubbly...................",
+        "rating": 4.8
+      },
+      {
+        "id": 15,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1899&q=80",
+        "chef_id": 5,
+        "ingredients": [
+          "½ tbsp olive oil",
+          "1 onion,",
+          "1 egg,",
+          "Beef Steak",
+          "tomato"
+        ],
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour..............",
+        "rating": 4.8
+      },
+      {
+        "id": 16,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1778&q=80",
+        "chef_id": 6,
+        "ingredients": [
+          "duck breast",
+          "black tea leaves",
+          "brown sugar",
+          "star anise",
+          "cinnamon"
+        ],
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour...............",
+        "rating": 4.8
+      },
+      {
+        "id": 17,
+        "recipe_name": "Pizza",
+        "image_url": "https://plus.unsplash.com/premium_photo-1675103909152-4aa4efcb5598?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_id": 6,
+        "ingredients": [
+          "bread dough ",
+          "olive oil",
+          "oregano",
+          "tomato",
+          "mozzarella"
+        ],
+        "cooking_method": "Baked in a wood-fired oven until the crust is crispy and the cheese is melted and bubbly...................",
+        "rating": 4.8
+      },
+      {
+        "id": 18,
+        "recipe_name": "Tea-Smoked Duck",
+        "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1899&q=80",
+        "chef_id": 6,
+        "ingredients": [
+          "½ tbsp olive oil",
+          "1 onion,",
+          "1 egg,",
+          "Beef Steak",
+          "tomato"
+        ],
+        "cooking_method": "To make Tea-Smoked Duck, first marinate the duck breast with salt and pepper for at least an hour..............",
         "rating": 4.8
       }
 ]
