@@ -7,6 +7,7 @@ const cors = require('cors');
 app.use(cors());
 
 const allData = require('./data/recipeData.json');
+const detailData = require('./data/detailData.json');
 
 app.get('/', (req, res) =>{
     res.send('Api is ruuning');
@@ -15,8 +16,22 @@ app.get('/', (req, res) =>{
 app.get('/chef', (req, res) =>{
     res.send(allData);
 });
-
-
+app.get('/chef/:id', (req, res) =>{
+    
+    const selectedNews = allData.find(n => n._id === id);
+    res.send(selectedNews)
+    res.send(allData);
+});
+app.get('/chefDetail/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    if (id === 0) {
+        res.send(allData)
+    }
+    else {
+        const detail = detailData.filter(n => parseInt(n.chef_id) === id);
+        res.send(detail)
+    }
+});
 
 app.listen(port, () => {
     console.log(`API is running on port: ${port}`)
