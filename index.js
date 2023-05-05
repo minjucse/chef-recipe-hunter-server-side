@@ -18,9 +18,9 @@ app.get('/chef', (req, res) =>{
 });
 app.get('/chef/:id', (req, res) =>{
     
-    const selectedNews = allData.find(n => n.id === id);
-    res.send(selectedNews)
-    res.send(allData);
+    const selectedChef = allData.find(n => n.id === id);
+    res.send(selectedChef)
+    
 });
 app.get('/chefDetail/:id', (req, res) => {
     const id = parseInt(req.params.id);
