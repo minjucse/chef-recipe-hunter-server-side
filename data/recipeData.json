@@ -5,7 +5,8 @@
     "image_url": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "experiences": "5 Years in this field.",
     "numberOfRecipe": "20+",
-    "likes": "200+"
+    "likes": "200+",
+    "description": "Chef specializing in authentic Thai cuisine."
   },
   {
     "id": "2",
@@ -13,7 +14,8 @@
     "image_url": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1087&q=80",
     "experiences": "15 Years in this field.",
     "numberOfRecipe": "40+",
-    "likes": "400+"
+    "likes": "400+",
+    "description": "Chef specializing in authentic Banlgi."
   },
   {
     "id": "3",
@@ -21,7 +23,8 @@
     "image_url": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "experiences": "5 Years in this field.",
     "numberOfRecipe": "10",
-    "likes": "100"
+    "likes": "100",
+    "description": "Chef specializing in authentic Italian cuisine."
   },
   {
     "id": "4",
@@ -29,7 +32,8 @@
     "image_url": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "experiences": "10 Years in this field.",
     "numberOfRecipe": "20+",
-    "likes": "200"
+    "likes": "200",
+    "description": "Chef specializing in authentic India cuisine."
   },
   {
     "id": "5",
@@ -37,7 +41,8 @@
     "image_url": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "experiences": "8 Years in this field.",
     "numberOfRecipe": "15",
-    "likes": "150"
+    "likes": "150",
+    "description": "Chef specializing in authentic India cuisine"
   },
   {
     "id": "6",
@@ -45,6 +50,7 @@
     "image_url": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "experiences": "7 Years in this field.",
     "numberOfRecipe": "10+",
-    "likes": "300+"
+    "likes": "300+",
+    "description": "Chef specializing in authentic India cuisine"
   }
 ]
